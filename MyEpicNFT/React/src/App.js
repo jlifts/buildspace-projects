@@ -172,7 +172,7 @@ const totalNFTCount = async () => {
 
   useEffect(() => {
     checkIfWalletIsConnected();
-  }, [])
+  })
 
   useEffect(() => {
     totalNFTCount();
