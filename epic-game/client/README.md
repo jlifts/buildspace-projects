@@ -13,3 +13,11 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 
 ### **Questions?**
 Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO5cc2751b-e878-41c4-99fa-a614dc910ee9) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+
+Extras for addons and experiments: 
+
+1. Critical Hits
+2. Pay for revive
+3. Limited minting and more expensive the less there are
+4. Show the current players participating in beating the boss
+5. Prize for boss defeat - they split the pool of funds in the end
